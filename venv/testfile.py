@@ -1,0 +1,2 @@
+import dashscope
+dashscope.api_key="sk-00bbe4c439ce4203b62f22b9963a510a"
